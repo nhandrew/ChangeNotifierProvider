@@ -1,6 +1,6 @@
-# ticket_tracker
+# Ticket Tracker
 
-A new Flutter project.
+From the YouTube Series on the Flutter Provider Package in Depth
 
 ## Getting Started
 
